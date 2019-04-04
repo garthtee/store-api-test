@@ -1,0 +1,143 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "ProductName": "Chicken Fillets, 6 x 100g",
+      "Category": "Meat & Poultry",
+      "Price": 4.5,
+      "Quantity": 12
+    },
+    {
+      "id": 2,
+      "ProductName": "Sirloin Steaks 4x 6-8oz",
+      "Category": "Meat & Poultry",
+      "Price": 45.7,
+      "Quantity": 6
+    },
+    {
+      "id": 3,
+      "ProductName": "Whole Free-Range Turkey, 1 x 16-18lbs",
+      "Category": "Meat & Poultry",
+      "Price": 43.2,
+      "Quantity": 8
+    },
+    {
+      "id": 4,
+      "ProductName": "Granny Smith Apples, 4 x 16 each",
+      "Category": "Fruit & Vegetables",
+      "Price": 3.75,
+      "Quantity": 0
+    },
+    {
+      "id": 5,
+      "ProductName": "Loose Carrots, 4 x 20 each",
+      "Category": "Fruit & Vegetables",
+      "Price": 2.67,
+      "Quantity": 2
+    },
+    {
+      "id": 6,
+      "ProductName": "Mandarin Oranges, 6 x 10 x 12",
+      "Category": "Fruit & Vegetables",
+      "Price": 12.23,
+      "Quantity": 8
+    },
+    {
+      "id": 7,
+      "ProductName": "Cauliflower Florets, 10 x 500g",
+      "Category": "Fruit & Vegetables",
+      "Price": 5,
+      "Quantity": 5
+    },
+    {
+      "id": 8,
+      "ProductName": "Coca-Cola, 6 x 2L",
+      "Category": "Drinks",
+      "Price": 8.3,
+      "Quantity": 6
+    },
+    {
+      "id": 9,
+      "ProductName": "Still Mineral Water, 6 x 24 x 500ml",
+      "Category": "Drinks",
+      "Price": 21.75,
+      "Quantity": 9
+    },
+    {
+      "id": 10,
+      "ProductName": "Sparkling Mineral Water, 6 x 24 x 500ml",
+      "Category": "Drinks",
+      "Price": 25.83,
+      "Quantity": 16
+    },
+    {
+      "ProductName": "Mars Bar, 6 x 24 x 50g",
+      "Category": "Confectionary & Desserts",
+      "Price": 43.82,
+      "Quantity": 4
+    },
+    {
+      "id": 11,
+      "ProductName": "Peppermint Chewing Gum, 6 x 50 x 30g",
+      "Category": "Confectionary & Desserts",
+      "Price": 35.7,
+      "Quantity": 6
+    },
+    {
+      "id": 12,
+      "ProductName": "Strawberry Cheesecake, 4 x 12 portions",
+      "Category": "Confectionary & Desserts",
+      "Price": 8.52,
+      "Quantity": 0
+    },
+    {
+      "id": 13,
+      "ProductName": "Vanilla Ice Cream, 6 x 4L",
+      "Category": "Confectionary & Desserts",
+      "Price": 3.8,
+      "Quantity": 2
+    },
+    {
+      "id": 14,
+      "ProductName": "Plain Flour, 10 x 1kg",
+      "Category": "Baking/Cooking Ingredients",
+      "Price": 6.21,
+      "Quantity": 4
+    },
+    {
+      "id": 15,
+      "ProductName": "Icing Sugar, 12 x 500g",
+      "Category": "Baking/Cooking Ingredients",
+      "Price": 9.38,
+      "Quantity": 6
+    },
+    {
+      "id": 16,
+      "ProductName": "Free-Range Eggs, 10 x 12 each",
+      "Category": "Baking/Cooking Ingredients",
+      "Price": 9.52,
+      "Quantity": 9
+    },
+    {
+      "id": 17,
+      "ProductName": "Caster Sugar, 16 x 750g",
+      "Category": "Baking/Cooking Ingredients",
+      "Price": 12.76,
+      "Quantity": 13
+    },
+    {
+      "id": 18,
+      "ProductName": "Kitchen Roll, 100 x 300 sheets",
+      "Category": "Miscellaneous Items",
+      "Price": 43.92,
+      "Quantity": 19
+    },
+    {
+      "id": 19,
+      "ProductName": "Paper Plates, 10 x 200 each",
+      "Category": "Miscellaneous Items",
+      "Price": 16.19,
+      "Quantity": 7
+    }
+  ]
+}

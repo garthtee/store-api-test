@@ -1,0 +1,11 @@
+{
+  "Products": [
+    {
+      "Id": 123,
+      "ProductName": "Test 1",
+      "Category": "Meat & Poultry",
+      "Price": 4.0,
+      "Quantity": 10
+    }
+  ]
+}

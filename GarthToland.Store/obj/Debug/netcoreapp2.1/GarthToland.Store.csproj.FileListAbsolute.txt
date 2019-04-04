@@ -1,0 +1,14 @@
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\bin\Debug\netcoreapp2.1\GarthToland.Store.deps.json
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\bin\Debug\netcoreapp2.1\GarthToland.Store.runtimeconfig.json
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\bin\Debug\netcoreapp2.1\GarthToland.Store.runtimeconfig.dev.json
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\bin\Debug\netcoreapp2.1\GarthToland.Store.dll
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.csprojAssemblyReference.cache
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.csproj.CoreCompileInputs.cache
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.RazorAssemblyInfo.cache
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.RazorAssemblyInfo.cs
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.AssemblyInfoInputs.cache
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.AssemblyInfo.cs
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.RazorTargetAssemblyInfo.cache
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\bin\Debug\netcoreapp2.1\GarthToland.Store.pdb
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.dll
+D:\Code\csharp\GarthToland.Store\GarthToland.Store\obj\Debug\netcoreapp2.1\GarthToland.Store.pdb
